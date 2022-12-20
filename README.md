@@ -1,4 +1,4 @@
-###Blog with ejs
+### Blog with ejs
 
 Simple blog made with ejs to learn the basics about ejs and it's utilities
 
